@@ -29,6 +29,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0-nullsafety.1"
+  chewie:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "83c3580b8aa115b9b4fa425b9b1f16169f90c345"
+      url: "https://github.com/noarangel/chewie.git"
+    source: git
+    version: "0.12.0"
   chewie_audio:
     dependency: transitive
     description:
@@ -123,6 +132,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.14.0+4"
+  import_js_library:
+    dependency: transitive
+    description:
+      name: import_js_library
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.2"
+  js:
+    dependency: transitive
+    description:
+      name: js
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.6.2"
   matcher:
     dependency: transitive
     description:
@@ -261,6 +284,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.4+1"
+  wakelock:
+    dependency: transitive
+    description:
+      name: wakelock
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.1+1"
+  wakelock_platform_interface:
+    dependency: transitive
+    description:
+      name: wakelock_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.0+1"
+  wakelock_web:
+    dependency: transitive
+    description:
+      name: wakelock_web
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.0+3"
   webview_flutter:
     dependency: transitive
     description:
