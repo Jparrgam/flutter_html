@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   # Plugin for parsing html
-  html: ^0.14.0+3
+  html: ^0.14.0+4
 
   # Plugins for parsing css
   csslib: ^0.16.2
