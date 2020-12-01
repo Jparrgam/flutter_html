@@ -26,9 +26,7 @@ dependencies:
     git: https://github.com/Jparrgam/chewie_audio.git
 
   chewie:
-    git:
-      url: https://github.com/noarangel/chewie.git
-      ref: master
+    git: https://github.com/noarangel/chewie.git
 
   # Plugins for rendering the <svg> tag.
   flutter_svg: ^0.19.0
