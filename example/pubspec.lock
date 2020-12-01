@@ -33,8 +33,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: "83c3580b8aa115b9b4fa425b9b1f16169f90c345"
+      ref: master
+      resolved-ref: "3dd2e9656ae6c306d60f5a06250c720c003b1e16"
       url: "https://github.com/noarangel/chewie.git"
     source: git
     version: "0.12.0"
